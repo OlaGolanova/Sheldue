@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sheldue/static/css/main.ca4cd973.css",
+    "main.js": "/Sheldue/static/js/main.17b1c738.js",
+    "index.html": "/Sheldue/index.html",
+    "main.ca4cd973.css.map": "/Sheldue/static/css/main.ca4cd973.css.map",
+    "main.17b1c738.js.map": "/Sheldue/static/js/main.17b1c738.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca4cd973.css",
+    "static/js/main.17b1c738.js"
+  ]
+}
