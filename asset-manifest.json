@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Sheldue/static/css/main.ca4cd973.css",
+    "main.css": "/Sheldue/static/css/main.3c32e37e.css",
     "main.js": "/Sheldue/static/js/main.17b1c738.js",
     "index.html": "/Sheldue/index.html",
-    "main.ca4cd973.css.map": "/Sheldue/static/css/main.ca4cd973.css.map",
+    "main.3c32e37e.css.map": "/Sheldue/static/css/main.3c32e37e.css.map",
     "main.17b1c738.js.map": "/Sheldue/static/js/main.17b1c738.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca4cd973.css",
+    "static/css/main.3c32e37e.css",
     "static/js/main.17b1c738.js"
   ]
 }
